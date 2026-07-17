@@ -8,7 +8,7 @@
 
   <a href="https://apps.apple.com/md/app/poker-cardom/id6772697756"
      style="background-color: #0366d6; color: white; padding: 14px 28px; text-decoration: none; border-radius: 6px; font-weight: bold; font-size: 18px; display: inline-block; margin: 10px; border: 1px solid rgba(27, 31, 35, 0.15);">
-    :iphone: Установить Приложение Покердом
+    :iphone: Приложение Покердома
   </a>
   
 </div>
